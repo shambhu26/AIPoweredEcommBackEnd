@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AIPoweredEcomm.Api/AIPoweredEcomm.Api.csproj" />
+    <Project Path="src/AIPoweredEcomm.Application/AIPoweredEcomm.Application.csproj" />
+    <Project Path="src/AIPoweredEcomm.Domain/AIPoweredEcomm.Domain.csproj" />
+    <Project Path="src/AIPoweredEcomm.Infrastructure/AIPoweredEcomm.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AIPoweredEcomm.ArchitectureTests/AIPoweredEcomm.ArchitectureTests.csproj" />
+  </Folder>
+</Solution>
